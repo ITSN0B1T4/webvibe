@@ -32,7 +32,7 @@ pip2 install urllib2
 
 ````
 cd webvibe
-python webvibe.py
+python2 webvibe.py
 ````
 
 * Now Select Your Option.
