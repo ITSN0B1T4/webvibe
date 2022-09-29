@@ -17,7 +17,7 @@
 pkg up -y
 pkg i python2 -y
 pkg i git -y
-https://github.com/ITSN0B1T4/webvibe
+git clone https://github.com/ITSN0B1T4/webvibe
 ````
 
 <h3 align="left">Requirements :</h3>
