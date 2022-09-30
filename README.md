@@ -35,6 +35,10 @@ python webvibe.py
 * Now Select Your Option.
 * After selecting an option you will be asked for a site link, press enter with the site link you want to extract information from.
 
+
+### DEMO :
+![DEMO](https://github.com/ITSN0B1T4/webvibe/raw/main/webvibe.GIF)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/toxicvirus21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TOXIC-VIRUS" height="30" width="40" /></a>
