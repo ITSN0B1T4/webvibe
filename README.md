@@ -23,9 +23,6 @@ git clone https://github.com/ITSN0B1T4/webvibe
 
 ````
 pip install lolcat
-pip install requests
-pip install pytz
-pip install python-whois
 ````
 
 <h3 align="left">Run tool :</h3>
