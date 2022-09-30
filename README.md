@@ -1,8 +1,7 @@
 # WEBVIBE
 
-### webvibe is a Python 2 tool. With this to extract various information of the website . The webvive tool contains: 
+### WebVibe is a Python tool. With this to extract various information of the website . The webvive tool contains: 
 
-* ADMIN FINDER
 * SUBDOMAIN FINDER
 * URL EXTRACTOR
 * DNS CHECKER
@@ -15,7 +14,7 @@
 
 ````
 pkg up -y
-pkg i python2 -y
+pkg i python -y
 pkg i git -y
 git clone https://github.com/ITSN0B1T4/webvibe
 ````
@@ -24,15 +23,16 @@ git clone https://github.com/ITSN0B1T4/webvibe
 
 ````
 pip install lolcat
-pip2 install requests
-pip2 install urllib2
+pip install requests
+pip install pytz
+pip install python-whois
 ````
 
 <h3 align="left">Run tool :</h3>
 
 ````
 cd webvibe
-python2 webvibe.py
+python webvibe.py
 ````
 
 * Now Select Your Option.
